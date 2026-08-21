@@ -151,7 +151,7 @@ h1, h2, h3, h4 {
 /* Apply background to the entire main wrapper */
 main {
     position: relative;
-    background-image: url('baalwi-homepage_files/from-l-to-r-habib-muhammad-haddar-habib-zayn-bin-sumayt-and-habib-abdulqadir-al-saqqaf.png');
+    background-image: url('habaib.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
