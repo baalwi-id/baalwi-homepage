@@ -613,6 +613,7 @@ main::before {
     .hero-actions .btn, .hero-actions .store-badge {
         width: 100%;
         max-width: 250px;
+        display: flex;
         justify-content: center;
     }
 }
